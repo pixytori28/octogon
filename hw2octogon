@@ -1,0 +1,11 @@
+#Victoria Inahuazo
+#victoria.inahuazo11@myhunter.cuny.edu
+#Date:02/06/24
+
+import turtle
+t = turtle.Turtle()
+
+#repeat 8times:
+for i in range(8):
+    t.forward (100)
+    t.left(45)
